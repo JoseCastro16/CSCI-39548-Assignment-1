@@ -8,10 +8,24 @@ h3 {
   margin-bottom: 50px;
 }
 
+a {
+  text-decoration: none;
+  color: whitesmoke;
+  background-color: #fb5b5a;
+  padding: 15px;
+  border-radius: 25px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
 img {
   display: inline;
   margin-left: auto;
   margin-right: auto;
   width: 20%;
   border-radius: 15px;
+}
+
+.link {
+  margin-bottom: 40px;
 }
